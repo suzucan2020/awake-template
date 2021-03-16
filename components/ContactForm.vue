@@ -4,7 +4,7 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="お名前を入力してください" />
+        <input class="input is-medium" type="text" placeholder="Input Your Name" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -17,7 +17,7 @@
         <input
           class="input is-medium"
           type="email"
-          placeholder="メールアドレスを入力してください"
+          placeholder="Input Your Email Address"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
