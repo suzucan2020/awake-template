@@ -3,7 +3,7 @@
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"
-        class="button is-primary"
+        class="button is-danger"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
         Subscribe To Newsletter
