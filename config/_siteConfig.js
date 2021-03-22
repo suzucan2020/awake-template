@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Get Active',
+  tagline: 'and Enjoy a Health Life',
   // featureImage: '/uploads/home-hero.jpg',
   // featureImage: '/uploads/sports-log.png',
   featureImage: '/uploads/sports-001.png',
